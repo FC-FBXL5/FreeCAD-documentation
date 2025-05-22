@@ -36,7 +36,7 @@ You can specify your favorite defaults in the [TechDraw Preferences](TechDraw_Pr
 ## LineGroup File Path 
 
 -   **Windows**: `C:\Program Files\FreeCAD\data\Mod\TechDraw\LineGroup\`
--   **Mac**: `/Applications/FreeCAD.app/Contents/Mod/TechDraw/LineGroup/`
+-   **Mac**: `/Applications/FreeCAD.app/Contents/Resources/share/Mod/TechDraw/LineGroup/`
 -   **Linux**: `/usr/share/freecad/Mod/TechDraw/LineGroup/`
     -   **freecad-daily PPA**: `/usr/share/freecad-daily/Mod/TechDraw/LineGroup/`
     -   **snap package**: `/snap/freecad/current/usr/share/Mod/TechDraw/LineGroup`
